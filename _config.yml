@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: 笑容刺眼的简历
+description: 笑容刺眼的简历
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://smilecjx.github.io/caijx.me
+url: https://smilecjx.github.io/caijx.me
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -26,7 +26,7 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
-  工作经历:
+  workHistory:
     - work1:
       company: XXX Ltd
       location: Auckland, New Zealand
@@ -48,7 +48,7 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  教育经历:
+  educationHistory:
     - education1:
       organization: XXXXXX University
       location: Shenyang, China
