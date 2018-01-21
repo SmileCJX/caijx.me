@@ -14,10 +14,10 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
+  name: 蔡俊祥
+  title: Java开发工程师
+  address: 福建, 福州
+  email: caijunxiang1129@gmail.com
   link: http://ddbullfrog.com
   weibo:
   github: ddbullfrog
