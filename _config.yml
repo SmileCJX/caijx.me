@@ -26,7 +26,7 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
-  workHistory:
+  工作经历:
     - work1:
       company: XXX Ltd
       location: Auckland, New Zealand
@@ -48,7 +48,7 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
+  教育经历:
     - education1:
       organization: XXXXXX University
       location: Shenyang, China
