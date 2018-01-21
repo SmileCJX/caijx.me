@@ -1,7 +1,7 @@
 # Site settings
 title: 笑容刺眼的简历
 description: 笑容刺眼的简历
-favicon: /assets/img/head.JPG
+favicon: /assets/img/avatar.JPG
 baseurl: https://smilecjx.github.io/caijx.me
 url: https://smilecjx.github.io/caijx.me
 rss_url: /pages/atom.xml
